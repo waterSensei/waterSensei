@@ -2,7 +2,7 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2360CEFF&size=40&center=true&vCenter=true&multiline=true&width=1000&height=65&lines=Hi%2C+I'm+waterSensei!)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Corbel&color=%2360CEFF&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=Graduate+from+the+Australian+National+University;Major+in+Electronic+and+communication+System+%26+Mechatronic+System)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Corbel&color=%2360CEFF&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=Graduated+from+the+Australian+National+University;Major+in+Electronic+and+communication+System+%26+Mechatronic+System)](https://git.io/typing-svg)
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=waterSensei&show_icons=true&theme=react" />
