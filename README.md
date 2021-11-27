@@ -9,7 +9,7 @@
 </a>
 
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/waterSensei/waterSensei">
     <img src="https://komarev.com/ghpvc/?username=waterSensei&style=flat-square&label=VIEWS&" alt="Views" />
   </a>
