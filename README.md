@@ -14,14 +14,17 @@
  I am an engineering graduate🎓. Developers are cool🧑‍💻. I learn for fun and share the process here🎉. A a beginner🐣, I focus on the ideas and methods of handling projects💭. It will be simple at first😊, but there is always something enlightening😇.
 </p>
 
+<!---
 # 🤖 MINILAB
 
 > Welcome to the ***MINILAB***! Another good day to ***LEARN***!
 
 Never know what the next project is about, what language, tools, or technologies may be used. Any subtle thing can become a project. It can be simple or complicated. **MINILAB** takes each individual project carefully and records everything in detail. ***METHOD*** and ***CONSISTENCY*** are important in **MINILAB**.
+--->
 
-<h4 align="center">⚡MINILAB is for LEARNING and FUN⚡</h4>
+<h4 align="center">⚡All for LEARNING and FUN⚡</h4>
 
+<!---
 <details>
   <summary>Read more</summary>
   
@@ -42,6 +45,7 @@ Never know what the next project is about, what language, tools, or technologies
 
 [README](README.md)
 
+--->
 
 <!---
 waterSensei/waterSensei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
