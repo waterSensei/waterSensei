@@ -1,14 +1,14 @@
 <!---# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi, I’m waterSensei  --->
-> # This page is still in progress!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2360CEFF&size=40&center=true&vCenter=true&multiline=true&width=1000&height=65&lines=Hi%2C+I'm+waterSensei!)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Corbel&color=%2360CEFF&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=Graduated+from+the+Australian+National+University;Major+in+Electronic+and+communication+System+%26+Mechatronic+System)](https://git.io/typing-svg)
- 
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=waterSensei&show_icons=true&theme=react" />
 </a>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;G'DAY <img align="right" src="https://komarev.com/ghpvc/?username=waterSensei&style=flat-square&label=VIEWS&" alt="Views" />
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;G'DAY 
+<!---<img align="right" src="https://komarev.com/ghpvc/?username=waterSensei&style=flat-square&label=VIEWS&" alt="Views" />--->
 
 <p style='text-align: justify;'> 
  I am an engineering graduate🎓. Developers are cool🧑‍💻. I learn for fun and share the process here🎉. A a beginner🐣, I focus on the ideas and methods of handling projects💭. It will be simple at first😊, but there is always something enlightening😇.
@@ -41,13 +41,5 @@ Never know what the next project is about, what language, tools, or technologies
   ### What to keep in mind? 
  
 </details>
-
-
-[README](README.md)
-
 --->
 
-<!---
-waterSensei/waterSensei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
