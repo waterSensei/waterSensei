@@ -21,7 +21,7 @@
 
 Never know what the next project is about, what language, tools, or technologies may be used. Any subtle thing can become a project. It can be simple or complicated. **MINILAB** takes each individual project carefully and records everything in detail. ***METHOD*** and ***CONSISTENCY*** are important in **MINILAB**.
 --->
-
+<br />
 <h4 align="center">⚡All for LEARNING and FUN⚡</h4>
 <h4 align="center">😅Not a "Sensei". Not even close.😅</h4>
 <!---
