@@ -9,18 +9,21 @@
 </a>
 
 
-<p align="center">
+<!--- <p align="center">
   <a href="https://github.com/waterSensei/waterSensei">
     <img src="https://komarev.com/ghpvc/?username=waterSensei&style=flat-square&label=VIEWS&" alt="Views" />
   </a>
   <a href="https://github.com/waterSensei/waterSensei">
     <img src="https://img.shields.io/github/last-commit/waterSensei/waterSensei?&style=flat-square&label=Last Commit" />
   </a>
-</p>
+</p> 
+--->
 
-* I am
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> G'DAY <img src="https://komarev.com/ghpvc/?username=waterSensei&style=flat-square&label=VIEWS&" alt="Views" />
 
-<br /><br /><br /><br /><br /><br /><br /><br /> 
+I am an engineering graduate🎓. Developers are the collest🧑‍💻. I learn for fun and share the process here. A a beginner🐣, I focus on the ideas and methods of handling projects💭. It will be simple at first😊, but there is always something enlightening😇.
+
+<br />
 
 # 🤖 MINILAB
 
