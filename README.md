@@ -8,38 +8,38 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=waterSensei&show_icons=true&theme=react" />
 </a>
 
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;G'DAY <img align="right" src="https://komarev.com/ghpvc/?username=waterSensei&style=flat-square&label=VIEWS&" alt="Views" />
 
-<!--- <p align="center">
-  <a href="https://github.com/waterSensei/waterSensei">
-    <img src="https://komarev.com/ghpvc/?username=waterSensei&style=flat-square&label=VIEWS&" alt="Views" />
-  </a>
-  <a href="https://github.com/waterSensei/waterSensei">
-    <img src="https://img.shields.io/github/last-commit/waterSensei/waterSensei?&style=flat-square&label=Last Commit" />
-  </a>
-</p> 
---->
-
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> G'DAY <img src="https://komarev.com/ghpvc/?username=waterSensei&style=flat-square&label=VIEWS&" alt="Views" />
-
-I am an engineering graduate🎓. Developers are the collest🧑‍💻. I learn for fun and share the process here. A a beginner🐣, I focus on the ideas and methods of handling projects💭. It will be simple at first😊, but there is always something enlightening😇.
-
-<br />
+<p style='text-align: justify;'> 
+ I am an engineering graduate🎓. Developers are cool🧑‍💻. I learn for fun and share the process here🎉. A a beginner🐣, I focus on the ideas and methods of handling projects💭. It will be simple at first😊, but there is always something enlightening😇.
+</p>
 
 # 🤖 MINILAB
 
-  
-
 > Welcome to the ***MINILAB***! Another good day to ***LEARN***!
 
-## Intro 
+Never know what the next project is about, what language, tools, or technologies may be used. Any subtle thing can become a project. It can be simple or complicated. **MINILAB** takes each individual project carefully and records everything in detail. ***METHOD*** and ***CONSISTENCY*** are important in **MINILAB**.
 
-## Why am I doing this?
+<h4 align="center">⚡MINILAB is for LEARNING and FUN⚡</h4>
 
-## What are the projects?
+<details>
+  <summary>Read more</summary>
+  
+  ### Why am I doing this?
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+ 
+  ### Why am I doing this?
+ 
+  ### What are the projects?
 
-## What to keep in mind? 
+  ### What to keep in mind? 
+ 
+</details>
 
-##
+
 [README](README.md)
 
 
