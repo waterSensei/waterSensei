@@ -23,7 +23,7 @@ Never know what the next project is about, what language, tools, or technologies
 --->
 
 <h4 align="center">⚡All for LEARNING and FUN⚡</h4>
-
+<h4 align="center">😅Not a "Sensei". Not even close.😅</h4>
 <!---
 <details>
   <summary>Read more</summary>
